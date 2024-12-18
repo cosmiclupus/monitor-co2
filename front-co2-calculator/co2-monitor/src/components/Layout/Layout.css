@@ -1,0 +1,19 @@
+.layout {
+  background-color: #ecf0f1;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.layout-title {
+  color: #27ae60;
+  text-align: center;
+}
+
+.layout-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,18 @@
+.chart-container {
+  height: 280px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  overflow: hidden;
+  padding-top: 20px;  /* Adicionado padding superior ao container */
+}
+
+.chart-container > canvas {
+  width: 100% !important;
+  height: 100% !important;
+}

@@ -1,0 +1,38 @@
+.contact-container {
+  background-color: #f5f5f5;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.contact-items {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.contact-item {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.contact-info {
+  font-size: 1rem;
+  color: #666;
+}

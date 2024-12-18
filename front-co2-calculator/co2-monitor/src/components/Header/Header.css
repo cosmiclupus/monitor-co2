@@ -1,0 +1,40 @@
+.header {
+  background-color: #00a651;
+  color: #fff;
+  padding: 1rem 2rem;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-nav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-nav li {
+  margin-left: 1.5rem;
+}
+
+.header-nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-nav a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,20 @@
+.transport-info {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.transport-mode, .transport-speed {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.transport-icon {
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+.transport-text, .speed-value {
+  font-weight: bold;
+}
